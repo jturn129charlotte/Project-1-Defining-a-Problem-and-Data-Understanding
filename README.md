@@ -23,7 +23,7 @@ The goal of this project is to explore how lifestyle, academic, and social facto
 This analysis suggests that workload management, sleep hygiene, and peer support could be effective strategies for reducing stress among students.  
 
 ## 📂 Files
-- `project1-student-stress.ipynb` → Jupyter notebook with full code, analysis, and visualizations  
+- `project1.ipynb` → Jupyter notebook with full code, analysis, and visualizations  
 - `README.md` → This summary file  
 
 ## 📚 References
